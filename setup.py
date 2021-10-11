@@ -33,7 +33,7 @@ class Pytest(TestCommand):
 
 
 setup(
-    name="Tornado-JSON",
+    name="gini-tornado-json",
     version=tornado_json.__version__,
     url='https://github.com/hfaran/Tornado-JSON',
     license='MIT License',
